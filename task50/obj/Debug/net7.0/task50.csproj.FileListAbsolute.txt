@@ -1,0 +1,15 @@
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\obj\Debug\net7.0\task50.csproj.AssemblyReference.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\obj\Debug\net7.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\obj\Debug\net7.0\task50.AssemblyInfoInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\obj\Debug\net7.0\task50.AssemblyInfo.cs
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\obj\Debug\net7.0\task50.csproj.CoreCompileInputs.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\bin\Debug\net7.0\task50.exe
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\bin\Debug\net7.0\task50.deps.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\bin\Debug\net7.0\task50.runtimeconfig.json
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\bin\Debug\net7.0\task50.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\bin\Debug\net7.0\task50.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\obj\Debug\net7.0\task50.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\obj\Debug\net7.0\refint\task50.dll
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\obj\Debug\net7.0\task50.pdb
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\obj\Debug\net7.0\task50.genruntimeconfig.cache
+D:\Others\Courses\course_gb\Lessons\Programming_languages\dz7\csharp_dz7\task50\obj\Debug\net7.0\ref\task50.dll
